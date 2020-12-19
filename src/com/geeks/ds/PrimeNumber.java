@@ -35,6 +35,7 @@ public class PrimeNumber {
         return true;
     }
 
+    //More Effective soln
     public static boolean isPrime3(int n) {
         if (n == 1) {
             return false;
