@@ -5,6 +5,7 @@ public class ComputingPower {
     public static void main(String[] args) {
         System.out.println(solution1(3,5));
         System.out.println(solution(3,5));
+        System.out.println(solution2(4,5));
     }
 
 
@@ -29,4 +30,19 @@ public class ComputingPower {
             return temp*x;
         }
     }
+
+
+    public static int solution2(int x,int n){
+        int res=1;
+        while(n>0){
+            if(n%2!=0){
+                res = res *x;
+            }
+            x= x*x;
+            n= n/2;
+        }
+        return res;
+    }
+
+
 }
