@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad07dbb9-8f70-45fc-a733-3305e655ffff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/DivisionOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/PrimeNumberFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/ComputingPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/SmallerPrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,9 +104,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DivisionOfNumber">
-    <configuration name="DivisionOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.DivisionOfNumber" />
+  <component name="RunManager" selected="Application.ComputingPower">
+    <configuration name="ComputingPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.ComputingPower" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
@@ -118,16 +118,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.GCD" />
+    <configuration name="DivisionOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.DivisionOfNumber" />
       <module name="Geeks_DS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.LCM" />
-      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,20 +147,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallerPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.SmallerPrimeNumber" />
+      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.GCD" />
-      <item itemvalue="Application.LCM" />
       <item itemvalue="Application.PrimeNumber" />
       <item itemvalue="Application.PrimeNumberFactor" />
       <item itemvalue="Application.DivisionOfNumber" />
+      <item itemvalue="Application.SmallerPrimeNumber" />
+      <item itemvalue="Application.ComputingPower" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputingPower" />
+        <item itemvalue="Application.SmallerPrimeNumber" />
         <item itemvalue="Application.DivisionOfNumber" />
         <item itemvalue="Application.PrimeNumberFactor" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.LCM" />
-        <item itemvalue="Application.GCD" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +227,16 @@
           <url>file://$PROJECT_DIR$/src/com/geeks/ds/DivisionOfNumber.java</url>
           <line>35</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/SmallerPrimeNumber.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/ComputingPower.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
