@@ -2,8 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad07dbb9-8f70-45fc-a733-3305e655ffff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/383b2a7ae19942606c941db5ca3799979f605ee6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b55cce0356fcf55fd9bde7df29746ecc75383a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb2eb92c6d9455f00d19264bb66fb179b2289bc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8/IkmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/CodeFregement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/GetClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/IKMTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/IKmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/JavaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/LongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/OfficeParamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/WriteClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a8ca0c1b5e287496cc86694e68fd1ede025c667" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a8ca0c1b5e287496cc86694e68fd1ede025c667" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a23d2fadc91f5cb888b1e66edd0eef886f1da979" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a23d2fadc91f5cb888b1e66edd0eef886f1da979" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be4432ae8340923bfcdfb7ca48a0add9e2c8f39a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be4432ae8340923bfcdfb7ca48a0add9e2c8f39a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da95f0d8acb2b7b045c1c50cea856cc2990c220e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da95f0d8acb2b7b045c1c50cea856cc2990c220e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dabf1924dec130b5b4f13e646dd156afabd9ccdc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dabf1924dec130b5b4f13e646dd156afabd9ccdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb9e953b0ab1cebed4dd275cdb67723caa57e211" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb9e953b0ab1cebed4dd275cdb67723caa57e211" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/ComputingPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/ComputingPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/java8/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/java8/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/java8/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/java8/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/java8/Elements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/java8/Elements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/java8/Invoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/java8/Invoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/java8/Predicator$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/java8/Predicator$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/java8/Predicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/java8/Predicator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/java8/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/java8/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/java8/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/java8/Predicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8/Predicator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,18 +133,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ComputingPower">
-    <configuration name="ComputingPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.ComputingPower" />
+  <component name="RunManager" selected="Application.OfficeParamTest">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8.A" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geeks.ds.*" />
+          <option name="PATTERN" value="com.geeks.ds.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisionOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.DivisionOfNumber" />
+    <configuration name="CalendarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8programming.CalendarDemo" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geeks.ds.*" />
+          <option name="PATTERN" value="com.geeks.ds.java8programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,28 +166,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.PrimeNumber" />
-      <module name="Geeks_DS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumberFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.PrimeNumberFactor" />
-      <module name="Geeks_DS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmallerPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.SmallerPrimeNumber" />
+    <configuration name="IKMTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8programming.IKMTest2" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geeks.ds.*" />
+          <option name="PATTERN" value="com.geeks.ds.java8programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8programming.LongTest" />
+      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.java8programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfficeParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8programming.OfficeParamTest" />
+      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.java8programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +206,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimeNumber" />
-      <item itemvalue="Application.PrimeNumberFactor" />
-      <item itemvalue="Application.DivisionOfNumber" />
-      <item itemvalue="Application.SmallerPrimeNumber" />
-      <item itemvalue="Application.ComputingPower" />
+      <item itemvalue="Application.IKMTest2" />
+      <item itemvalue="Application.A" />
+      <item itemvalue="Application.LongTest" />
+      <item itemvalue="Application.CalendarDemo" />
+      <item itemvalue="Application.OfficeParamTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComputingPower" />
-        <item itemvalue="Application.SmallerPrimeNumber" />
-        <item itemvalue="Application.DivisionOfNumber" />
-        <item itemvalue="Application.PrimeNumberFactor" />
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.OfficeParamTest" />
+        <item itemvalue="Application.CalendarDemo" />
+        <item itemvalue="Application.LongTest" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.IKMTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -234,8 +280,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/geeks/ds/ComputingPower.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="18" />
+          <line>35</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

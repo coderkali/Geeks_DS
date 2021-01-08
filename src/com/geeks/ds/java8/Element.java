@@ -23,8 +23,8 @@ public enum Element {
         //System.out.printf("%s,%s,%s",Element.HELIUM,Element.HELIUM.chemecialSYmbol());;
         //System.out.printf("%s,%s,%s",Element[1],Element[1].);
         //System.out.printf("%s,%s,%s",Element[0],);
-        //System.out.printf("%s,%s,%s",Element.HELIUM.toString(),Element.HELIUM.chemecialSYmbol,Element.HELIUM.nature);
-        System.out.println(Element.HELIUM);
+        System.out.printf("%s,%s,%s",Element.HELIUM.toString(),Element.HELIUM.chemecialSYmbol,Element.HELIUM.nature);
+       // System.out.println(Element.HELIUM);
 
 
 

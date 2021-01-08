@@ -12,33 +12,33 @@ public class A {
    static String message;
     public static void main(String[] args) {
 
-        Supplier<String> i = () -> "car";
-        Consumer<String> s = x -> System.out.println(x.toLowerCase());
-        Consumer<String> d = x -> System.out.println(x.toUpperCase());
-        s.andThen(d).accept(i.get());
-
-        System.out.println();
-
-
+//        Supplier<String> i = () -> "car";
+//        Consumer<String> s = x -> System.out.println(x.toLowerCase());
+//        Consumer<String> d = x -> System.out.println(x.toUpperCase());
+//        s.andThen(d).accept(i.get());
+//
+//        System.out.println();
 
 
-        String strA = "A";
-        String strB = "B";
-        String strNull = null;
-        StringBuffer sb = new StringBuffer("C");
-
-        Formatter fm = new Formatter(sb);
-
-        fm.format("%s%s",strA,strB);
-        System.out.println("Line 1: "+fm);
 
 
-        fm.format("%-2s",strB);
-        System.out.println("Line 2: "+fm);
-
-
-        fm.format("%b",strNull);
-        System.out.println("Line 3: "+fm);
+//        String strA = "A";
+//        String strB = "B";
+//        String strNull = null;
+//        StringBuffer sb = new StringBuffer("C");
+//
+//        Formatter fm = new Formatter(sb);
+//
+//        fm.format("%s%s",strA,strB);
+//        System.out.println("Line 1: "+fm);
+//
+//
+//        fm.format("%-2s",strB);
+//        System.out.println("Line 2: "+fm);
+//
+//
+//        fm.format("%b",strNull);
+//        System.out.println("Line 3: "+fm);
 
 
 

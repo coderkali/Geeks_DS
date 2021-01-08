@@ -10,6 +10,7 @@ import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.util.*;
+import java.util.stream.Stream;
 
 public class Predicator {
 
@@ -32,10 +33,10 @@ public class Predicator {
 //       // BufferedReader bufferReader2 = new BufferedReader(new InputStreamReader("input.dat"));
 
 
-//        System.out.println(Stream.of("green","yellow","blue")
-//                             .max((m1,m2) -> m1.compareTo(m2))
-//                             .filter(s -> s.endsWith("n"))
-//                .orElse("yellow"));
+        System.out.println(Stream.of("green","yellow","blue")
+                             .max((m1,m2) -> m1.compareTo(m2))
+                             .filter(s -> s.endsWith("n"))
+                .orElse("yellow"));
 
 
 //        int a =9, b=2;
@@ -60,13 +61,13 @@ public class Predicator {
 //        System.out.println(s.first() + " "+s.size());
 
 
-//        Integer number1 = new Integer(1);
-//
-//        Integer number2 = number1;
-//
-//        number1+=1;
-//        System.out.println(number1);
-//        System.out.println(number2);
+        Integer number1 = new Integer(1);
+
+        Integer number2 = number1;
+
+        number1+=1;
+        System.out.println(number1);
+        System.out.println(number2);
 
        // ResourceBundle bundle = ResourceBundle.getBundle("Message",new Locale("zh","CN"));
 
@@ -74,11 +75,11 @@ public class Predicator {
         //Math.abs()
 
 
-//        LocalDate localDate = LocalDate.of(2015,4,4);
-//
-//        System.out.println(localDate.format(DateTimeFormatter.ofPattern("MMM dd,yyyy")));
-//        System.out.println(localDate.format(DateTimeFormatter.ofPattern("E,MMM dd,yyyy")));
-//        System.out.println(localDate.format(DateTimeFormatter.ofPattern("MM/dd/yy")));
+        LocalDate localDate = LocalDate.of(2015,4,4);
+
+        System.out.println(localDate.format(DateTimeFormatter.ofPattern("MMM dd,yyyy")));
+        System.out.println(localDate.format(DateTimeFormatter.ofPattern("E,MMM dd,yyyy")));
+        System.out.println(localDate.format(DateTimeFormatter.ofPattern("MM/dd/yy")));
 
 
         YearMonth ym1 = YearMonth.now();

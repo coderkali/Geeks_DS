@@ -11,3 +11,13 @@ I
 src/com/geeks/ds/LCM.java,a/2/a23d2fadc91f5cb888b1e66edd0eef886f1da979
 W
 'src/com/geeks/ds/PrimeNumberFactor.java,d/a/dabf1924dec130b5b4f13e646dd156afabd9ccdc
+V
+&src/com/geeks/ds/DivisionOfNumber.java,6/b/6b55cce0356fcf55fd9bde7df29746ecc75383a7
+X
+(src/com/geeks/ds/SmallerPrimeNumber.java,3/8/383b2a7ae19942606c941db5ca3799979f605ee6
+T
+$src/com/geeks/ds/ComputingPower.java,b/b/bb2eb92c6d9455f00d19264bb66fb179b2289bc2
+S
+#src/com/geeks/ds/java8/Element.java,a/2/a27da355625026005c2e60e57050f40d091884f2
+S
+#src/com/geeks/ds/java8/Invoice.java,e/f/efe68ef16aa4539b07166bfc9a84c4534e3463ff
