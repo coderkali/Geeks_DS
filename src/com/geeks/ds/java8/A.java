@@ -22,23 +22,23 @@ public class A {
 
 
 
-//        String strA = "A";
-//        String strB = "B";
-//        String strNull = null;
-//        StringBuffer sb = new StringBuffer("C");
-//
-//        Formatter fm = new Formatter(sb);
-//
-//        fm.format("%s%s",strA,strB);
-//        System.out.println("Line 1: "+fm);
-//
-//
-//        fm.format("%-2s",strB);
-//        System.out.println("Line 2: "+fm);
-//
-//
-//        fm.format("%b",strNull);
-//        System.out.println("Line 3: "+fm);
+        String strA = "A";
+        String strB = "B";
+        String strNull = null;
+        StringBuffer sb = new StringBuffer("C");
+
+        Formatter fm = new Formatter(sb);
+
+        fm.format("%s%s",strA,strB);
+        System.out.println("Line 1: "+fm);
+
+
+        fm.format("%-2s",strB);
+        System.out.println("Line 2: "+fm);
+
+
+        fm.format("%b",strNull);
+        System.out.println("Line 3: "+fm);
 
 
 
