@@ -1,0 +1,15 @@
+
+G
+java:S1481"*Remove this unused "print" local variable.(ğ’´8ì„á¯î.
+B
+java:S1659	"&Declare "lastName" on a separate line.(ÈÆ n8¤çÇšî.
+V
+java:S1854"9Remove this useless assignment to local variable "print".(ğ’´8ì„á¯î.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğ’´8Ç˜Ğšî.
+a
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ÈÆ n8¤çÇšî.
+X	java:S125."<This block of commented-out lines of code should be removed.(ÏÕö€8ì„á¯î.
+]	java:S1253"<This block of commented-out lines of code should be removed.(¬ÆÔ—şÿÿÿÿ8ÙŒà¯î.
+]	java:S1257"<This block of commented-out lines of code should be removed.(¥«½•ùÿÿÿÿ8¦ß¯î.
+]	java:S125#"<This block of commented-out lines of code should be removed.(¦€‡³øÿÿÿÿ8ûß¿¯î.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(Úó8ÑŸá¯î.

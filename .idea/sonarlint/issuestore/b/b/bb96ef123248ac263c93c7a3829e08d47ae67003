@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å¯Ëßÿÿÿÿÿ8íÞ©±î.
+X
+java:S1854 ";Remove this useless assignment to local variable "manager".(¢‘êí8ú¡«±î.
+I
+java:S1481 ",Remove this unused "manager" local variable.(¢‘êí8ú¡«±î.
