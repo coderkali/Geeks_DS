@@ -66,8 +66,8 @@ public class Predicator {
         Integer number2 = number1;
 
         number1+=1;
-        System.out.println(number1);
-        System.out.println(number2);
+        System.out.println("Number 1::"+number1);
+        System.out.println("Number 2::"+number2);
 
        // ResourceBundle bundle = ResourceBundle.getBundle("Message",new Locale("zh","CN"));
 

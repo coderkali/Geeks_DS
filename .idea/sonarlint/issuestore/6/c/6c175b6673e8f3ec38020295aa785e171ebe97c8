@@ -1,6 +1,6 @@
 
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ϋΉ‹ψÿÿÿÿ8ΣυΪ—ξ.
-M
-java:S1481"+Remove this unused "bundle" local variable.(Ò‹¤ωÿÿÿÿ8 ωξ.
 \
 java:S1854":Remove this useless assignment to local variable "bundle".(Ò‹¤ωÿÿÿÿ8 ωξ.
+M
+java:S1481"+Remove this unused "bundle" local variable.(Ò‹¤ωÿÿÿÿ8 ωξ.

@@ -9,6 +9,11 @@ public class MyClass_1 {
         MyOtherClass otherClass = new MyOtherClass();
     }
 
+
+    public static  void main(String [] args) {
+         System.out.println("Hello");
+    }
+
 }
 
 class MyOtherClass {

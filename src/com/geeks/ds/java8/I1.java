@@ -32,22 +32,22 @@ class C2 implements  I2 {
 
 
 
-//        Date aDate =new Date();
-//        Calendar aCalendar = Calendar.getInstance();
-//        aCalendar.setTimeInMillis(1450000000000L);
-//        aDate= aCalendar.getTime();
-//        System.out.println(new SimpleDateFormat("dd-MMM-yyyy").format(aDate));
-//
-//
-//        Instant aInstant = Instant.ofEpochMilli(1450000000000L);
-//        DateTimeFormatter d = DateTimeFormatter.ofPattern("dd-MMM-yyyy");
-//        System.out.println(" "+ LocalDateTime.ofInstant(aInstant, ZoneId.systemDefault()).format(d));
-//
-//
-//        aCalendar.add(Calendar.DAY_OF_MONTH,60);
-//
-//        aDate = aCalendar.getTime();
-//        System.out.println(new SimpleDateFormat("dd-MMM=yyy").format(aDate));
+        Date aDate =new Date();
+        Calendar aCalendar = Calendar.getInstance();
+        aCalendar.setTimeInMillis(1450000000000L);
+        aDate= aCalendar.getTime();
+        System.out.println(new SimpleDateFormat("dd-MMM-yyyy").format(aDate));
+
+
+        Instant aInstant = Instant.ofEpochMilli(1450000000000L);
+        DateTimeFormatter d = DateTimeFormatter.ofPattern("dd-MMM-yyyy");
+        System.out.println(" "+ LocalDateTime.ofInstant(aInstant, ZoneId.systemDefault()).format(d));
+
+
+        aCalendar.add(Calendar.DAY_OF_MONTH,60);
+
+        aDate = aCalendar.getTime();
+        System.out.println(new SimpleDateFormat("dd-MMM=yyy").format(aDate));
 
 
 
