@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àñ§É
+J
+java:S1604	"(Make this anonymous inner class a lambda(ÿÀÌĞıÿÿÿÿ8ò¦ÔĞğ.
+`
+java:S1854	">Remove this useless assignment to local variable "checkEvent".(ÿÀÌĞıÿÿÿÿ8ò¦ÔĞğ.
+t
+java:S4276	"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÿÀÌĞıÿÿÿÿ8ò¦ÔĞğ.
+Q
+java:S1481	"/Remove this unused "checkEvent" local variable.(ÿÀÌĞıÿÿÿÿ8ò¦ÔĞğ.

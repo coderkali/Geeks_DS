@@ -1,14 +1,14 @@
 
 U
 java:S1197	"8Move the array designator from the variable to the type.(ÍÃùû8ÜÜšÿî.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÀ³äþÿÿÿÿ8ŸÃ ÿî.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒãË¶ùÿÿÿÿ8™ª£ÿî.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒœ³ª8“ýžÿî.
-Z
-java:S1197"8Move the array designator from the variable to the type.(ÇÉÍ›øÿÿÿÿ8ŸÃ ÿî.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òƒð·úÿÿÿÿ8ùï›ÿî.
 Z
 java:S1197
 "8Move the array designator from the variable to the type.(öþÚ–øÿÿÿÿ8ÜÜšÿî.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(êæ½¯ÿÿÿÿÿ8ò®¢ÿî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÀ³äþÿÿÿÿ8ŸÃ ÿî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒãË¶ùÿÿÿÿ8™ª£ÿî.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ€·È8ÇÀ¤ÿî.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÇÉÍ›øÿÿÿÿ8ŸÃ ÿî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òƒð·úÿÿÿÿ8ùï›ÿî.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒœ³ª8“ýžÿî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êæ½¯ÿÿÿÿÿ8ò®¢ÿî.

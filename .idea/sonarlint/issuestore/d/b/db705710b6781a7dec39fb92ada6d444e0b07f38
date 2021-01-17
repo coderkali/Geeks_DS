@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àñ§É
+Q
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(Ô§âíùÿÿÿÿ8¨½úĞğ.
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ˆŸß™øÿÿÿÿ8¨½úĞğ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(à…§#8ˆßüĞğ.

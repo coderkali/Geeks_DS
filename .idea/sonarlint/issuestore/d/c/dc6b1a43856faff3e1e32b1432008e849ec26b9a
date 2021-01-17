@@ -1,17 +1,17 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(åğÕÿÿÿÿÿ8Úå´¨ğ.
-L
-java:S3740"/Provide the parametrized type for this generic.(¨çĞğ8Àìµ¨ğ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ8¢ë¶¨ğ.
 T
 java:S1854"7Remove this useless assignment to local variable "mrc".(ğ½é»8æñÒ±î.
-L
-java:S3740"/Provide the parametrized type for this generic.(ü„‚ğ8È“à±î.
-{
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(®ÕâËúÿÿÿÿ8•Ê¶¨ğ.
-Z
-java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¦ß±î.
 E
 java:S1481"(Remove this unused "mrc" local variable.(ğ½é»8æñÒ±î.
+L
+java:S3740"/Provide the parametrized type for this generic.(¨çĞğ8Àìµ¨ğ.
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¦ß±î.
 ]
 java:S2094"BRemove this empty class, write its code or make it an "interface".(–ûÇŒşÿÿÿÿ
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(®ÕâËúÿÿÿÿ8•Ê¶¨ğ.
+L
+java:S3740"/Provide the parametrized type for this generic.(ü„‚ğ8È“à±î.
+]	java:S125"<This block of commented-out lines of code should be removed.(åğÕÿÿÿÿÿ8Úå´¨ğ.

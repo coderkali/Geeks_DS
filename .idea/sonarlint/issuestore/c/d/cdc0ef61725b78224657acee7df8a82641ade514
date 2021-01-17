@@ -1,0 +1,14 @@
+
+I
+java:S1612",Replace this lambda with a method reference.(‘ò‘¥8‚Ñğ.
+L
+java:S1611"/Remove the parentheses around the "s" parameter(‘ò‘¥8‚Ñğ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àñ§É
+y
+java:S4276
+"WRefactor this code to use the more specialised Functional Interface 'Predicate<String>'(ÃÙó¬ûÿÿÿÿ8¤µ„Ñğ.
+x
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(‘ò‘¥8‚Ñğ.
+Q
+java:S1611	"/Remove the parentheses around the "i" parameter(„­ŞÓøÿÿÿÿ8ÎƒÑğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿¶Ğ•8¦Ò…Ñğ.
