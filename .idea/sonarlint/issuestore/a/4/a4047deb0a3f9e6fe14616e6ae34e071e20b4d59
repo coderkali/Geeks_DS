@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êŞšÿÿÿÿÿ8ŞØÚòñ.
+l
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ8ŞØÚòñ.
+X	java:S125*"<This block of commented-out lines of code should be removed.(Î¡è¾8¼Ğçòñ.
+u
+java:S1114"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(ÖÒ˜Ùùÿÿÿÿ8ŞØÚòñ.
+l
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ8àÃ×òñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„§Ù²ÿÿÿÿÿ8†—âòñ.
+O
+java:S1113"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8àÃ×òñ.
+V
+java:S3400#"9Remove this method and declare a constant for this value.(”·³›8Ê·ãòñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÅ™Î8…‡Ùòñ.
+O
+java:S1113"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8ŞØÚòñ.

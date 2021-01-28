@@ -10,7 +10,7 @@ public interface MyInterface {
 }
 
 abstract  class MyClass implements  MyInterface {
-    //abstract void method1();
+    abstract public void myMethod();
 }
 
 

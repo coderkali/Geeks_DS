@@ -23,10 +23,14 @@ public class IkmTest3 {
 
     private int data;
 
-    public static void main(String[] args) {
-        int data =0;
-        IkmTest3 i = new IkmTest3();
-        i.display();
-        System.out.println("data ="+data);
+//    public static void main(String[] args) {
+//        int data =0;
+//        IkmTest3 i = new IkmTest3();
+//        i.display();
+//        System.out.println("data ="+data);
+//    }
+
+    static public  void main(String... args) {
+        System.out.println("test");
     }
 }
