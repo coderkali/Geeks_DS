@@ -52,13 +52,13 @@ public class Predicator {
         System.out.println("f = "+f);
 
 
-//        SortedSet<Elements> s = new TreeSet<Elements>();
-//
-//        s.add(new Elements(15));
-//        s.add(new Elements(10));
-//        s.add(new Elements(25));
-//        s.add(new Elements(10));
-//        System.out.println(s.first() + " "+s.size());
+        SortedSet<Elements> s = new TreeSet<Elements>();
+
+        s.add(new Elements(15));
+        s.add(new Elements(10));
+        s.add(new Elements(25));
+        s.add(new Elements(10));
+        System.out.println(s.first() + " "+s.size());
 
 
         Integer number1 = new Integer(1);

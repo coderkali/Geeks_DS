@@ -1,6 +1,9 @@
 
-Y
-java:S1610"7Convert the abstract class "MyClass" into an interface.(£Ğ©Éøÿÿÿÿ8ôèøÓğ.
-X	java:S125"<This block of commented-out lines of code should be removed.(”ÜşÌ8¸İ€Ôğ.
 >
 java:S1116"Remove this empty statement.(×†œÇûÿÿÿÿ8¯ğ±î.
+W
+java:S1161":Add the "@Override" annotation above this method signature(ñá8úåú½ô.
+u
+java:S3038"X"myMethod" is defined in the "MyInterface" interface and can be removed from this class.(ñá8‘Íü½ô.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ñá8‘Íü½ô.

@@ -9,7 +9,7 @@ public class Test3 {
         System.out.println(this.total);
     }
 
-    public static void main(String[] args) {
+    static public void main(String[] args) {
         Test3 test = new Test3();
         test.call();
     }

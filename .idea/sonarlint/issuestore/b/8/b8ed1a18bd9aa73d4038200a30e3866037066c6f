@@ -1,7 +1,7 @@
 
-{
-java:S1192	"YDefine a constant instead of duplicating this literal "Current JVM Heap Size ::" 3 times.(¯ýÛ…þÿÿÿÿ8Á„‰±î.
 Z	java:S106	"9Replace this use of System.out or System.err by a logger.(¯ýÛ…þÿÿÿÿ8™Ì†±î.
 U	java:S106
 "9Replace this use of System.out or System.err by a logger.(áºÙö8Á„‰±î.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(þÌý•úÿÿÿÿ8Á„‰±î.
+{
+java:S1192	"YDefine a constant instead of duplicating this literal "Current JVM Heap Size ::" 3 times.(¯ýÛ…þÿÿÿÿ8Á„‰±î.

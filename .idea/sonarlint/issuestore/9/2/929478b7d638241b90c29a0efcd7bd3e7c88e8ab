@@ -1,6 +1,6 @@
 
-D
-java:S1068"'Remove this unused "xyz" private field.(¼ø™š8…èÕÒğ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ø«Êº8ÃÌüñö.
 q
 java:S1104"OMake abc a static final constant or non-public and provide accessors if needed.(§Ü¼˜úÿÿÿÿ8õÆœ§ğ.
-X	java:S125"<This block of commented-out lines of code should be removed.(ø«Êº8Ñ˜ØÒğ.
+q
+java:S1104"OMake xyz a static final constant or non-public and provide accessors if needed.(×ÒŞçüÿÿÿÿ8î‡Âšø.

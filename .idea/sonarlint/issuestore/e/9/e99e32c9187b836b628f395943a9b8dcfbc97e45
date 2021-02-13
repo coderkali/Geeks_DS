@@ -1,0 +1,12 @@
+
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(Û¿©8×‰õçô.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8ÂŒªèô.
+u
+java:S3008$"SRename this field "MAX_CHAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¯¤ñÿÿÿÿÿ8×‰õçô.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8Û©èô.
+Z
+java:S11971"8Move the array designator from the variable to the type.(­™ÎÍùÿÿÿÿ8×‰õçô.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(Îä¦ú8×‰õçô.
+]	java:S125	"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8¤óôçô.
+R
+java:S1751@"6Remove this "return" statement or make it conditional.(¸®Ã'8ÙÛŸèô.

@@ -1,28 +1,28 @@
 
-T
-java:S1128">Remove this unused import 'java.util.logging.SimpleFormatter'.(ÇöÁ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Ó«Ã
-Y
-java:S1214"CMove constants defined in this interfaces to another class or enum.(çÆŒÆ
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¨°‰¬8•şú°î.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òæäìùÿÿÿÿ8 óû°î.
 W
 java:S2209"5Change this instance-reference to a static reference.(Òæäìùÿÿÿÿ8 óû°î.
-G
-java:S1905"%Remove this unnecessary cast to "I1".(Òæäìùÿÿÿÿ8 óû°î.
 ]	java:S125"<This block of commented-out lines of code should be removed.(•é‹Ğûÿÿÿÿ8 óû°î.
-V	java:S1256"<This block of commented-out lines of code should be removed.(ÑáÑñøÿÿÿÿ
 Z
 java:S3252"8Use static access with "com.geeks.ds.java8.I1" for "s1".(²ÑÏÂşÿÿÿÿ8 óû°î.
+Y
+java:S1214"CMove constants defined in this interfaces to another class or enum.(çÆŒÆ
+G
+java:S1905"%Remove this unnecessary cast to "I1".(Òæäìùÿÿÿÿ8 óû°î.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òæäìùÿÿÿÿ8 óû°î.
+V	java:S1256"<This block of commented-out lines of code should be removed.(ÑáÑñøÿÿÿÿ
+[
+java:S1854#"9Remove this useless assignment to local variable "aDate".(«©ÊÌùÿÿÿÿ8˜“»Óğ.
+T
+java:S1128">Remove this unused import 'java.util.logging.SimpleFormatter'.(ÇöÁ
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(´‹Òšûÿÿÿÿ8˜“»Óğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨°‰¬8•şú°î.
 ^
 java:S1214"CMove constants defined in this interfaces to another class or enum.(¦æÍùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²ÑÏÂşÿÿÿÿ8 óû°î.
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Ó«Ã
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒšîÚ8˜“»Óğ.
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷¬ì©
 G
 java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
 t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æØ¨¶üÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷¬ì©
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(²ÑÏÂşÿÿÿÿ8 óû°î.
-[
-java:S1854#"9Remove this useless assignment to local variable "aDate".(«©ÊÌùÿÿÿÿ8˜“»Óğ.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(´‹Òšûÿÿÿÿ8˜“»Óğ.
-U	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒšîÚ8˜“»Óğ.
 Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Ü‡â¦ùÿÿÿÿ8˜“»Óğ.

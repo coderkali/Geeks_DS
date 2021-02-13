@@ -7,13 +7,13 @@ public class ForLoopTest {
 
         Runnable r =  () -> System.out.println("Hi");
         new Thread(r).start();
-        for (;;){
-            if(i++ < j--){
-                continue;
-            }else{
-                break;
-            }
-            //System.out.println(i+" "+j);
-        }
+//        for (;;){
+//            if(i++ < j--){
+//                continue;
+//            }else{
+//                break;
+//            }
+//            //System.out.println(i+" "+j);
+//        }
     }
 }

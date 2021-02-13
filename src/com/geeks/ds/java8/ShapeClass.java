@@ -18,9 +18,9 @@ class Main {
         ShapeClass shape = new Quadrilitrial();
         Quadrilitrial quadrilitrial = new Quadrilitrial();
 
-        //Triangerial tri = (Triangerial) Quadrilitrial;
-        //Triangerial tri = (Triangerial) ShapeClass;
-        //Triangerial tri = (Triangerial) ShapeClass;
+        //Triangerial tri = (Triangerial) quadrilitrial;
+        //Triangerial tri = (Triangerial) shape;
+        //Triangerial tri = (Triangerial) shape;
         //Triangerial tri = (Triangerial) Quadrilitrial;
 
 

@@ -2,7 +2,7 @@ package com.geeks.ds.java8;
 
 public class OuterClass {
 
-    private String xyz;
+    public String xyz;
 
     public  void test1(){
         //abc = "";

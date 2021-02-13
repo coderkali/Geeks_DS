@@ -1,16 +1,16 @@
 
-V
-java:S4973"9Use the "equals" method if value comparison was intended.(ñ‘ôá8ã¯™î.
-V
-java:S4973	"9Use the "equals" method if value comparison was intended.(ñ‘ôá8™›­™î.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ïŠÆë8 º±™î.
-N
-java:S1874",Remove this use of "Long"; it is deprecated.(ŞÁÇÇøÿÿÿÿ8™›­™î.
-@
-java:S2129"Remove this "Long" constructor(ŞÁÇÇøÿÿÿÿ8™›­™î.
 U	java:S106
 "9Replace this use of System.out or System.err by a logger.(ì½à¶8™›­™î.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïŠÆë8–Ñ®™î.
+N
+java:S1874",Remove this use of "Long"; it is deprecated.(ŞÁÇÇøÿÿÿÿ8™›­™î.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïŠÆë8 º±™î.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ì½à¶8ã¯™î.
+V
+java:S4973	"9Use the "equals" method if value comparison was intended.(ñ‘ôá8™›­™î.
+@
+java:S2129"Remove this "Long" constructor(ŞÁÇÇøÿÿÿÿ8™›­™î.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(ñ‘ôá8ã¯™î.
 `
 java:S2583	"CChange this condition so that it does not always evaluate to "true"(ñ‘ôá8–Ñ®™î.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ì½à¶8ã¯™î.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ïŠÆë8–Ñ®™î.

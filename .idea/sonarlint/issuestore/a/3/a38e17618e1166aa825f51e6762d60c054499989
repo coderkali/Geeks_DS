@@ -1,7 +1,7 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(“ªéşÿÿÿÿ8Áƒ²òñ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÏÚèüÿÿÿÿ8®Ÿôãğ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(®Îù	8®Ÿôãğ.
 O
 java:S1874
 "-Remove this use of "Float"; it is deprecated.(¢‹µ¸ùÿÿÿÿ8®Ÿôãğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“ªéşÿÿÿÿ8Áƒ²òñ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(®Îù	8®Ÿôãğ.

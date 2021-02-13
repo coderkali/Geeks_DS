@@ -1,8 +1,10 @@
 package com.geeks.ds.java8;
 
+import java.math.BigDecimal;
+
 public class IkmTest {
 
-    public class Helper {
+    static class Helper {
         private int data = 5;
         public void bump(int inc){
             inc++;
@@ -11,7 +13,10 @@ public class IkmTest {
     }
 
     public static void main(String[] args) {
-      //Helper h = new Helper();
+      Helper h = new Helper();
+      int data =2;
+      h.bump(data);
+        System.out.println(h.data+" "+data);
 
     }
 }
