@@ -3,7 +3,7 @@ package com.geeks.ds.ProgrammingTest;
 public class LambdaDemo {
 
     public static void main(String[] args) {
-
+        printMyName("jack");
     }
 
     public static void printMyName(String name){

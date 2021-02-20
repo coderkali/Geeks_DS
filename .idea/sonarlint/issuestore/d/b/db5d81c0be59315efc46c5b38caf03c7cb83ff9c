@@ -1,34 +1,34 @@
 
+X	java:S125"<This block of commented-out lines of code should be removed.(©…•ç8Ş â°î.
+]	java:S125"<This block of commented-out lines of code should be removed.(šˆÎÎÿÿÿÿÿ8ÑÇüÔğ.
 R
-java:S1854"5Remove this useless assignment to local variable "p".(‘ºãŒ8›Á‚Õğ.
-K
-java:S1874
-".Remove this use of "Double"; it is deprecated.(¨ÒÉÄ8ÈÀá°î.
-X	java:S125"<This block of commented-out lines of code should be removed.(¯×œî8®µâ°î.
+java:S1854"5Remove this useless assignment to local variable "b".(Ï‚˜£8ÈÀá°î.
+f
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(‘ºãŒ8›Á‚Õğ.
 O
 java:S1874"-Remove this use of "Float"; it is deprecated.(“ıÒàûÿÿÿÿ8ÈÀá°î.
+R
+java:S1854"5Remove this useless assignment to local variable "p".(‘ºãŒ8›Á‚Õğ.
+W
+java:S1854"5Remove this useless assignment to local variable "f".(“ıÒàûÿÿÿÿ8ÈÀá°î.
+H
+java:S1481"&Remove this unused "f" local variable.(“ıÒàûÿÿÿÿ8ÈÀá°î.
+L
+java:S1874"/Remove this use of "Boolean"; it is deprecated.(Ï‚˜£8ÈÀá°î.
+]	java:S125)"<This block of commented-out lines of code should be removed.(©—Ê´ıÿÿÿÿ8ÑÇüÔğ.
+X	java:S125"<This block of commented-out lines of code should be removed.(¯×œî8®µâ°î.
+X	java:S125"<This block of commented-out lines of code should be removed.(ë®õ8›Á‚Õğ.
 C
 java:S1481
 "&Remove this unused "d" local variable.(¨ÒÉÄ8ÈÀá°î.
-]	java:S125)"<This block of commented-out lines of code should be removed.(©—Ê´ıÿÿÿÿ8ÑÇüÔğ.
-]	java:S125"<This block of commented-out lines of code should be removed.(…Åıøÿÿÿÿ8ÑÇüÔğ.
-H
-java:S1481"&Remove this unused "f" local variable.(“ıÒàûÿÿÿÿ8ÈÀá°î.
 C
 java:S1481"&Remove this unused "p" local variable.(‘ºãŒ8›Á‚Õğ.
-]	java:S125"<This block of commented-out lines of code should be removed.(šˆÎÎÿÿÿÿÿ8ÑÇüÔğ.
-X	java:S125"<This block of commented-out lines of code should be removed.(©…•ç8Ş â°î.
-f
-java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(‘ºãŒ8›Á‚Õğ.
+K
+java:S1874
+".Remove this use of "Double"; it is deprecated.(¨ÒÉÄ8ÈÀá°î.
+]	java:S125"<This block of commented-out lines of code should be removed.(…Åıøÿÿÿÿ8ÑÇüÔğ.
 C
 java:S1481"&Remove this unused "b" local variable.(Ï‚˜£8ÈÀá°î.
-X	java:S125"<This block of commented-out lines of code should be removed.(ë®õ8›Á‚Õğ.
-W
-java:S1854"5Remove this useless assignment to local variable "f".(“ıÒàûÿÿÿÿ8ÈÀá°î.
 R
 java:S1854
 "5Remove this useless assignment to local variable "d".(¨ÒÉÄ8ÈÀá°î.
-R
-java:S1854"5Remove this useless assignment to local variable "b".(Ï‚˜£8ÈÀá°î.
-L
-java:S1874"/Remove this use of "Boolean"; it is deprecated.(Ï‚˜£8ÈÀá°î.

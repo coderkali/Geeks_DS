@@ -1,4 +1,8 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤ªÑÉÿÿÿÿÿ8Åàœø.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğˆìäüÿÿÿÿ8È“±œø.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(òÙ¡N8ÎŞĞœø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤ªÑÉÿÿÿÿÿ8Åàœø.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğˆìäüÿÿÿÿ8È“±œø.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(òÙ¡N8ÎŞĞœø.
+U
+java:S1854"8Remove this useless assignment to local variable "list".(¼”Ğæ8Úò–½ù.
+F
+java:S1481")Remove this unused "list" local variable.(¼”Ğæ8Úò–½ù.
