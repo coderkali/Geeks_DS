@@ -17,5 +17,23 @@ public class MapvsFlatMap {
 
         map.entrySet().stream().flatMap(s -> s.getValue().stream()).forEach(System.out::println);
         map.entrySet().stream().map(s -> s.getValue()).forEach(System.out::println);
+
+        Employee e = new Employee();
+
+
+        System.out.println(e.getId().toString());
+    }
+}
+
+class Employee {
+
+    private Long id;
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
     }
 }
