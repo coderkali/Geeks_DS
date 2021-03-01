@@ -1,0 +1,12 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ğÑ´8æĞ³±ü.
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(±••©8æĞ³±ü.
+R
+java:S1854"5Remove this useless assignment to local variable "c".(Ë„çœ8ìÅ´±ü.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’üÙıùÿÿÿÿ8æĞ³±ü.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ìÅ´±ü.
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(’üÙıùÿÿÿÿ8æĞ³±ü.
+C
+java:S1481"&Remove this unused "c" local variable.(Ë„çœ8ìÅ´±ü.

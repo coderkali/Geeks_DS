@@ -1,11 +1,11 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã³Õ‹þÿÿÿÿ
-]	java:S125"<This block of commented-out lines of code should be removed.(Ž”«ûúÿÿÿÿ8ô¾èÿî.
-C
-java:S1481"-Remove this unused "invoice1" local variable.(Ãäåó
-R
-java:S1854"<Remove this useless assignment to local variable "invoice1".(Ãäåó
-=
-java:S2440"'Remove this instantiation of "Invoice".(Ãäåó
 W
 java:S2209"5Change this instance-reference to a static reference.(Ã³Õ‹þÿÿÿÿ8ý£õ½ù.
+=
+java:S2440"'Remove this instantiation of "Invoice".(Ãäåó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã³Õ‹þÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "invoice1".(Ãäåó
+C
+java:S1481"-Remove this unused "invoice1" local variable.(Ãäåó
+]	java:S125"<This block of commented-out lines of code should be removed.(Ž”«ûúÿÿÿÿ8ô¾èÿî.
