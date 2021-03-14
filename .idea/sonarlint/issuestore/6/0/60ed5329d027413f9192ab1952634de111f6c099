@@ -1,0 +1,9 @@
+
+E
+java:S1068"(Remove this unused "BASE" private field.(²ˆô£8ëº²ð€/
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(¨öîÛ8þô¯ð€/
+t	java:S127B"XRefactor the code in order to not assign to this loop counter from within the loop body.(Àº¢¯8ÍÒžñ€/
+s	java:S127?"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÝÄ½*8ÍÒžñ€/
+]	java:S125"<This block of commented-out lines of code should be removed.(—®ÐŒûÿÿÿÿ8·í–ñ€/
+l
+java:S3008"ORename this field "BASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ˆô£8Íá¬ð€/

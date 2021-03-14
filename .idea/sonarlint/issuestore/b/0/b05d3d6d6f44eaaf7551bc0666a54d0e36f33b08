@@ -1,4 +1,4 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ß¨ÈØ8É·”òö.
 N
 java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ß ÖÀù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ß¨ÈØ8É·”òö.

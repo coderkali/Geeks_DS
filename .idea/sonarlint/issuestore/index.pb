@@ -241,3 +241,37 @@ I
 src/com/geeks/ds/GFG.java,1/5/156720c9df134cddd6e73058c5073954c7c2ce94
 W
 'src/com/geeks/ds/WholeMinuteDilema.java,e/4/e47a8e9bb1309241796caa31cffc13b77f67124d
+_
+/src/com/geeks/ds/monthlycost/OnlineAccount.java,5/2/5296f5c4eb2a07ab65116c1cce72e73acc586fd0
+R
+"src/com/geeks/ds/WHileLopTest.java,8/f/8f9e06f8f6af99d8727cfcaf49c60dda8ef04e8d
+X
+(src/com/geeks/ds/DigitsManipulation.java,b/4/b4ca1917145db8ceb8de1bf224d581abe2e93386
+L
+src/com/geeks/ds/ClassA.java,c/8/c8244d04053e5d366af806e33c88fd53af0450d3
+K
+src/com/geeks/ds/Main2.java,4/7/47e5384d6126098a0a3c01d133ed637b50d1fc3d
+V
+&src/com/geeks/ds/InheriatanceTest.java,a/0/a08123e18e1081cebffd1c6f70a6cb20beaf60c2
+R
+"src/com/geeks/ds/ValueOfXAndY.java,0/4/04f9cb051b6aec458e1a0bb286be88e47e974451
+P
+ src/com/geeks/ds/SampleDemo.java,a/1/a1f17c47d8f903acf76e2b0dbb5ba8dc36eeec6f
+M
+src/com/geeks/ds/SetTest.java,e/9/e91e2c81df2a3e79d4f1b28dde3aaf49dc26f6bb
+T
+$src/com/geeks/ds/PropertiesTest.java,1/6/16943c209b8535512a46c09c2c01b62374d392d4
+N
+src/com/geeks/ds/Solution.java,a/c/aca7c29c53fa4aa805a35d8dc37db4d23831cc61
+\
+,src/com/geeks/ds/AddTwoStringNumberTest.java,6/0/60ed5329d027413f9192ab1952634de111f6c099
+P
+ src/com/geeks/ds/ProductSum.java,f/0/f0c7ec585e73c72d4ba6d6a4b016a83ed8ccae90
+R
+"src/com/geeks/ds/PatternMatch.java,4/f/4fbe03b920922f35faff17fddb8c5ddc6dca19ca
+P
+ src/com/geeks/ds/IfLoopTest.java,8/7/87db5a8854507c40926651b0fc54a0bad03cb9bb
+X
+(src/com/geeks/ds/SavingsAccountTest.java,6/4/640a5c06e8319e7ed08df23681b07ae58da12ed8
+I
+src/com/geeks/ds/TDD.java,e/0/e0b640e0d3c4207041d1db5dc327853202932475

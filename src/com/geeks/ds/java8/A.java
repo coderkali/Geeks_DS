@@ -12,12 +12,12 @@ public class A {
    static String message;
     public static void main(String[] args) {
 
-//        Supplier<String> i = () -> "car";
-//        Consumer<String> s = x -> System.out.println(x.toLowerCase());
-//        Consumer<String> d = x -> System.out.println(x.toUpperCase());
-//        s.andThen(d).accept(i.get());
-//
-//        System.out.println();
+        Supplier<String> i = () -> "car";
+        Consumer<String> s = x -> System.out.println(x.toLowerCase());
+        Consumer<String> d = x -> System.out.println(x.toUpperCase());
+        s.andThen(d).accept(i.get());
+
+        System.out.println();
 
 
 

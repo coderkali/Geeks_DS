@@ -22,15 +22,15 @@ public class Predicator {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-//        FileReader inputStream = new FileReader("input.dat");
-//
-//        //BufferedReader bufferReader = new BufferedReader("input.dat");
-//
-//        BufferedReader bufferReader = new BufferedReader(new FileReader("input.dat"));
-//
-//        //BufferedReader bufferReader1 = new BufferedReader(new File("input.dat"));
-//
-//       // BufferedReader bufferReader2 = new BufferedReader(new InputStreamReader("input.dat"));
+        FileReader inputStream = new FileReader("input.dat");
+
+        //BufferedReader bufferReader = new BufferedReader("input.dat");
+
+        BufferedReader bufferReader = new BufferedReader(new FileReader("input.dat"));
+
+        //BufferedReader bufferReader1 = new BufferedReader(new File("input.dat"));
+
+       // BufferedReader bufferReader2 = new BufferedReader(new InputStreamReader("input.dat"));
 
 
         System.out.println(Stream.of("green","yellow","blue")

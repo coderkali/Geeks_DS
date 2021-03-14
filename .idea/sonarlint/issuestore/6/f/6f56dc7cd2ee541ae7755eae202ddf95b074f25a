@@ -1,24 +1,24 @@
 
-D
-java:S1125"(Remove the literal "true" boolean value.(­x8œ×³˜î.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îüõûÿÿÿÿ8í¿µ˜î.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇµûÂ8¶Œ¸˜î.
-a
-java:S2583"DChange this condition so that it does not always evaluate to "false"(»´éã8‡•¯˜î.
-f
-java:S2583"DChange this condition so that it does not always evaluate to "false"(Îüõûÿÿÿÿ8”Û¶˜î.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(­x8œ×³˜î.
-c
-java:S1192"FDefine a constant instead of duplicating this literal "false" 5 times.(»´éã8øÊ´˜î.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(ä¡“Øşÿÿÿÿ8¨î°˜î.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(»´éã8ê­˜î.
-`
-java:S2583"DChange this condition so that it does not always evaluate to "false"(­x8øÊ´˜î.
 [
 java:S4973
 "9Use the "equals" method if value comparison was intended.(ä¡“Øşÿÿÿÿ8Š¿±˜î.
 `
+java:S2583"DChange this condition so that it does not always evaluate to "false"(­x8øÊ´˜î.
+D
+java:S1125"(Remove the literal "true" boolean value.(­x8œ×³˜î.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îüõûÿÿÿÿ8í¿µ˜î.
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(»´éã8‡•¯˜î.
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Îüõûÿÿÿÿ8”Û¶˜î.
+`
 java:S2583"CChange this condition so that it does not always evaluate to "true"(ÇµûÂ8Üª¹˜î.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇµûÂ8¶Œ¸˜î.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»´éã8ê­˜î.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(­x8œ×³˜î.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ä¡“Øşÿÿÿÿ8¨î°˜î.
+c
+java:S1192"FDefine a constant instead of duplicating this literal "false" 5 times.(»´éã8øÊ´˜î.
 R
 java:S1854"5Remove this useless assignment to local variable "c".(ÇµûÂ8Üª¹˜î.
