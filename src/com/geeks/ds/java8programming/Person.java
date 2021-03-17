@@ -31,7 +31,13 @@ class PersonTest{
     static int x;
 
     public static void main(String[] args) {
-        people.stream().reduce((e1,e2) -> { x = e1.id; if(e1.id > e2.id) return e1; x = e2.id; return e2;})
+        people.stream().reduce((e1,e2) -> {
+                x = e1.id;
+                if(e1.id > e2.id)
+                    return e1;
+                x = e2.id;
+                return e2;
+        })
                 .flatMap(e -> Optional.ofNullable(e.name))
                 .map(y -> new Person(y,x))
                 .ifPresent(System.out::println);

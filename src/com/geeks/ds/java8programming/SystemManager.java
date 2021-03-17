@@ -3,6 +3,8 @@ package com.geeks.ds.java8programming;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.NoSuchElementException;
 
 public class SystemManager {
@@ -29,6 +31,7 @@ public class SystemManager {
     }
 
     public static void main(String[] args) {
+        List<?> l = new ArrayList<String>();
         SystemManager manager = new SystemManager();
     }
 
