@@ -1,15 +1,15 @@
 
-v
-java:S1210!"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Éßœ8şõë“ş.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Íé™8†¸˜”ş.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ö¾—ùÿÿÿÿ8†¸˜”ş.
 e
 java:S1214"CMove constants defined in this interfaces to another class or enum.(çñš„ÿÿÿÿÿ8ôÑë“ş.
-U	java:S1067"9Replace this use of System.out or System.err by a logger.(Ì•Ğõ8Î˜—”ş.
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üäî‘8ôÑë“ş.
-Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ö¾—ùÿÿÿÿ8†¸˜”ş.
-S
-java:S1659"1Declare "noOfExclusiveMovies" on a separate line.(–ÕŒàúÿÿÿÿ8ª‘î“ş.
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šÆ•İøÿÿÿÿ8ôÑë“ş.
-v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌÙö•8ôÑë“ş.
-U	java:S106;"9Replace this use of System.out or System.err by a logger.(Íé™8†¸˜”ş.
+v
+java:S1210!"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Éßœ8şõë“ş.
 €
 java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "monthlyCOst".(îÀè8Î˜—”ş.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Ì•Ğõ8Î˜—”ş.
+S
+java:S1659"1Declare "noOfExclusiveMovies" on a separate line.(–ÕŒàúÿÿÿÿ8ª‘î“ş.
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌÙö•8ôÑë“ş.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šÆ•İøÿÿÿÿ8ôÑë“ş.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üäî‘8ôÑë“ş.

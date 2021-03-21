@@ -2,7 +2,7 @@ package com.geeks.ds.java8;
 
 import java.util.function.Predicate;
 
-public class MyPredciator<T> implements Predicate {
+public class MyPredciator<T> implements Predicate<T> {
 
     Predicate<T> local;
     MyPredciator(Predicate<T> t){
@@ -10,8 +10,8 @@ public class MyPredciator<T> implements Predicate {
     }
 
     @Override
-    public boolean test(Object o) {
-        return false;
+    public boolean test(T t) {
+        return local.test(t);
     }
 
 
