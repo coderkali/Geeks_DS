@@ -1,0 +1,10 @@
+
+B
+java:S2129" Remove this "String" constructor(ÅÃ¦ùüÿÿÿÿ8á‰ëš…/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÉë8öÄíš…/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(â’â¨ùÿÿÿÿ8œéìš…/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(º³‰¢8öÄíš…/
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(’Ëú‹8¿ïš…/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’Ëú‹8Øïš…/

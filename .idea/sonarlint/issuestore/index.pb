@@ -309,3 +309,33 @@ W
 'src/com/geeks/ds/startegy/Startegy.java,7/5/75d45e6f684099efc37b075d06ca8aaa35d326b9
 [
 +src/com/geeks/ds/startegy/StartegyTest.java,5/0/5041439eb1795dc6c122b2a15f61f6591be1896b
+P
+ src/com/geeks/ds/LetterTest.java,2/e/2ee2bc895dbb871afb62fd1021fb90ecaa566944
+T
+$src/com/geeks/ds/CountMovesTest.java,c/3/c3c6126cb7c130a46df65c581d6518a30d2163b8
+L
+src/com/geeks/ds/Ladder.java,5/c/5c0383ede42de70426e637c3f645fb32e313f92c
+R
+"src/com/geeks/ds/MaximizeTest.java,c/5/c5cae0f4106ffc63a99000c0491c48b1d7eb7e60
+U
+%src/com/geeks/ds/TestMyCollector.java,6/1/619fd610d20ae277d99351906cc6b59aab8400fc
+S
+#src/com/geeks/ds/StringTest456.java,a/d/adb3a048064be33798bf037d1317c7d5b193c07d
+S
+#src/com/geeks/ds/LocalTimetest.java,f/2/f250edf37d4abe28092406bca4ab456a387304ad
+T
+$src/com/geeks/ds/MethodRefactor.java,0/b/0bb0628415156862368a6612ea875a279535ee4a
+O
+src/com/geeks/ds/QueueTest.java,8/e/8e5321e193d3c6ebde132bbd946b0d70eaa1513f
+P
+ src/com/geeks/ds/FlagHeight.java,7/8/780a1efe7d94281791efecd2433da9ee8fbb0e30
+R
+"src/com/geeks/ds/TestFirstApp.java,c/b/cb316539b8e9df67fe9ee81de8acaddc0306a7b6
+T
+$src/com/geeks/ds/SprintTraining.java,f/3/f3dfd3a5642d3829ee01fa9ee759d03eedc683c5
+S
+#src/com/geeks/ds/TrueFalseTest.java,f/f/ff7bc8df2f0788813fcd0756831ae94171cf1895
+P
+ src/com/geeks/ds/PriceCheck.java,e/a/eaa4308c403080864c34a3c310032dbfb76a16a1
+V
+&src/com/geeks/ds/BeautifullString.java,0/c/0cbe9362fa29215b76a3ef8e5b2b366bfe7541b1

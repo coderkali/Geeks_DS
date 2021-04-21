@@ -5,11 +5,11 @@ import java.util.HashMap;
 public class WholeMinuteDilema {
 
     public static void main(String[] args) {
-        int[] i = {3,60,60,60};
+        int[] i = {10,50,90,30};
         System.out.println(numPairsDivisibleBy60(i));
     }
 
-    public static int numPairsDivisibleBy60(int[] time) {
+    public static long numPairsDivisibleBy60(int[] time) {
 
         int count = 0;
         HashMap<Integer,Integer> map = new HashMap<Integer,Integer>();

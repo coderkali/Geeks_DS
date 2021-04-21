@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÓàÖ÷8¢Òöš…/
+i
+java:S2275"LTime argument is expected (long, Long, Calendar, Date and TemporalAccessor).(ıœß¸8œ„ıš…/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıœß¸8äÁüš…/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¼¿ã{8¢Òöš…/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ïÏ•Æ8¢Òöš…/
+r
+java:S1192	"PDefine a constant instead of duplicating this literal "Local Time: %tT" 3 times.(åŠæıüÿÿÿÿ8äÁüš…/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(åŠæıüÿÿÿÿ8Ôçôš…/

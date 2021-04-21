@@ -1,0 +1,10 @@
+
+{
+java:S1104"YMake queueSequence a static final constant or non-public and provide accessors if needed.(‚Ó¾ûÿÿÿÿ8Ï‚³›…/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¶æ÷à8´ù¾›…/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÜÖ´øÿÿÿÿ8ßõ¸›…/
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(òäÓÖøÿÿÿÿ8ßõ¸›…/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´Óèùÿÿÿÿ8Ñäµ›…/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òòm8İ¹½›…/

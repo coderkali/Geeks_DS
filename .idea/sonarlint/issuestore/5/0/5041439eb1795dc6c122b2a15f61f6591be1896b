@@ -1,7 +1,7 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ´ˆ‡ûÿÿÿÿ8‚‰±Í„/
 }
 java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(’µ®Óûÿÿÿÿ8×ÂÃÍ„/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”óÎ¸8ÏÇÍ„/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ´ˆ‡ûÿÿÿÿ8‚‰±Í„/
 u
 java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(’µ®Óûÿÿÿÿ8×ÂÃÍ„/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”óÎ¸8ÏÇÍ„/

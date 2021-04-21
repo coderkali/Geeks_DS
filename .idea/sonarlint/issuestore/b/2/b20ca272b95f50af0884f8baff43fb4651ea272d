@@ -1,9 +1,9 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(üŒİ¯ûÿÿÿÿ8Äğ˜šî.
-S
-java:S1128"1Remove this unused import 'com.geeks.ds.java8.A'.(½ÕÛÄıÿÿÿÿ8ì†•¨ğ.
 U	java:S106-"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8¯š™¨ğ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ•Šùÿÿÿÿ8Äğ˜šî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(üŒİ¯ûÿÿÿÿ8Äğ˜šî.
 T	java:S106"9Replace this use of System.out or System.err by a logger.(¹Âï8Äğ˜šî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ•Šùÿÿÿÿ8Äğ˜šî.
 M
 java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‡Ú¦šî.
+S
+java:S1128"1Remove this unused import 'com.geeks.ds.java8.A'.(½ÕÛÄıÿÿÿÿ8ì†•¨ğ.

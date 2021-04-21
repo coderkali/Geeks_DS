@@ -50,6 +50,12 @@ class Account implements OnlineAccount, Comparable<Account>{
 
 
     public static void main(String[] args) {
+
+        String str= "aef";
+        String str2 = "axz";
+
+        System.out.println(str.contains(str2));
+
         ArrayList<Account> accounts = new ArrayList<>();
        Account accoun1=  new Account("Frank",12,6);
         System.out.println(accoun1.monthlyCost());

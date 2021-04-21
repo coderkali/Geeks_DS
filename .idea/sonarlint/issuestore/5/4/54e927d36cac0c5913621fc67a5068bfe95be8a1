@@ -1,9 +1,9 @@
 
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Çİa8ŠÌĞğ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8°¯ŒĞğ.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àñ§É
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”éÁÓ8¥ë‹Ğğ.
-X	java:S125"<This block of commented-out lines of code should be removed.(ùê÷Š8©°‰Ğğ.
 
 java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8Ê†Ğğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”éÁÓ8¥ë‹Ğğ.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(×úü8üåˆĞğ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ùê÷Š8©°‰Ğğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8°¯ŒĞğ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Çİa8ŠÌĞğ.
