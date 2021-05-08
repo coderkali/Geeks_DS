@@ -3,6 +3,7 @@ package com.geeks.ds;
 public class TrueFalseTest {
 
     public static void main(String[] args) {
+        Integer i  =null;
         int c=0;
         System.out.println((0==c++) ? "true": "false");
 

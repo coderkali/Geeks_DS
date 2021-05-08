@@ -15,16 +15,21 @@ class Overridden extends Overirde{
 //    }
 
 //    @Override
-//    public Number getLocaleCode(String value ,boolean isValidated){
+//    protected Integer getLocalcle(String value, boolean isValidated) {
 //        return null;
 //    }
 
 //    @Override
-//      public Integer getLocalCOde(String value,boolean isValidated){
-//          return null;
-//      }
+//    public Number getLocalcle(String value, boolean isValidated) {
+//       return null;
+//    }
 
     public static void main(String[] args) {
 
+    }
+
+
+    static class Testing {
+        private String str;
     }
 }

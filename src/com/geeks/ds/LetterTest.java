@@ -3,6 +3,10 @@ package com.geeks.ds;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.Executor;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.function.Predicate;
 
 public class LetterTest {
@@ -13,5 +17,9 @@ public class LetterTest {
         letters.removeIf(p1.negate().or(p2));
         letters.sort((s1,s2) -> s1.compareTo(s2));
         System.out.println(letters);
+
+
+        ExecutorService executor = Executors.newFixedThreadPool(10);
+        
     }
 }

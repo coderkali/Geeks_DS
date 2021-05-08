@@ -15,6 +15,6 @@ public class Test2 {
         Optional<Object> o = Optional.of(new Test2());
         System.out.println(o.get().toString());
 
-        ResourceBundle bundle = ResourceBundle.getBundle("Message", new Locale("zh","CN"));
+        //ResourceBundle bundle = ResourceBundle.getBundle("Message", new Locale("zh","CN"));
     }
 }
