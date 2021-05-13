@@ -1,25 +1,24 @@
 
-f
-java:S2583"DChange this condition so that it does not always evaluate to "false"(Îüõûÿÿÿÿ8´™ü„Š/
-`
-java:S2583"CChange this condition so that it does not always evaluate to "true"(ÇµûÂ8Ô±â„Š/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(»´éã8ŒÕú„Š/
-T	java:S106
-"9Replace this use of System.out or System.err by a logger.(­x8‘Ûø„Š/
-D
-java:S1125
-"(Remove the literal "true" boolean value.(­x8‘Ûø„Š/
-[
-java:S4973"9Use the "equals" method if value comparison was intended.(ä¡“Øşÿÿÿÿ8Å±ş„Š/
-`
-java:S2583
-"DChange this condition so that it does not always evaluate to "false"(­x8‘Ûø„Š/
 c
-java:S1192"FDefine a constant instead of duplicating this literal "false" 5 times.(ÇµûÂ8ŒÕú„Š/
-R
-java:S1854"5Remove this useless assignment to local variable "c".(ÇµûÂ8âÛá„Š/
+java:S1192"FDefine a constant instead of duplicating this literal "false" 5 times.(ÇµûÂ8ŒÕú„Š/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(ä¡“Øşÿÿÿÿ8Å±ş„Š/
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Îüõûÿÿÿÿ8´™ü„Š/
 a
-java:S2583"DChange this condition so that it does not always evaluate to "false"(»´éã8ŒÕú„Š/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä¡“Øşÿÿÿÿ8âØı„Š/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îüõûÿÿÿÿ8´™ü„Š/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇµûÂ8š“á„Š/
+java:S2583"DChange this condition so that it does not always evaluate to "false"(»´éã8ŒÕú„Š/
+`
+java:S2583"DChange this condition so that it does not always evaluate to "false"(­x8‘Ûø„Š/
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ÇµûÂ8Ô±â„Š/
+R
+java:S1854"5Remove this useless assignment to local variable "c".(ÇµûÂ8âÛá„Š/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇµûÂ8š“á„Š/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(­x8‘Ûø„Š/
+C
+java:S1125"'Remove the unnecessary boolean literal.(­x8‘Ûø„Š/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»´éã8ŒÕú„Š/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îüõûÿÿÿÿ8´™ü„Š/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä¡“Øşÿÿÿÿ8âØı„Š/
+H
+java:S1481"&Remove this unused "i" local variable.(£¹›úúÿÿÿÿ8ĞôæØ“/

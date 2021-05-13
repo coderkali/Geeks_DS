@@ -34,7 +34,7 @@ public class Predicator {
 
 
         System.out.println(Stream.of("green","yellow","blue")
-                             .max((m1,m2) -> m1.compareTo(m2))
+                             .max(String::compareTo)
                              .filter(s -> s.endsWith("n"))
                 .orElse("yellow"));
 

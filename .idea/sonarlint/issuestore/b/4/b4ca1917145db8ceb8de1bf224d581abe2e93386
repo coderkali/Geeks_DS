@@ -1,9 +1,9 @@
 
-C
-java:S1481"&Remove this unused "l" local variable.(÷˜€ş8²ÒåÍş.
 R
 java:S1854"5Remove this useless assignment to local variable "l".(÷˜€ş8²ÒåÍş.
-]	java:S125"<This block of commented-out lines of code should be removed.(ÚÀüÿÿÿÿ8²ÒåÍş.
 U	java:S106
 "9Replace this use of System.out or System.err by a logger.( †Ó¢8¾üü”ş.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÚÀüÿÿÿÿ8²ÒåÍş.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¦ˆŞúÿÿÿÿ8é—ö”ş.
+C
+java:S1481"&Remove this unused "l" local variable.(÷˜€ş8²ÒåÍş.

@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øÇŠ¸ıÿÿÿÿ8Á›“/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾®Ï8¨Æ›“/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·µéÂıÿÿÿÿ8‘¨Æ›“/
+X	java:S125"<This block of commented-out lines of code should be removed.(»ŸÚµ8§šÊ›“/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›­Òºıÿÿÿÿ8ÉêÌ›“/
+E
+java:S1611"/Remove the parentheses around the "s" parameter(¤‘Ïú
+G
+java:S1612",Replace this lambda with a method reference.(×ÎØÒÿÿÿÿÿ
+H
+java:S1612",Replace this lambda with a method reference.( èÊs8˜ÎÃ›“/

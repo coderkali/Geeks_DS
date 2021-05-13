@@ -1,16 +1,16 @@
 
 {
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Åªßøÿÿÿÿ8Ü’˜î.
-L
-java:S3740"/Provide the parametrized type for this generic.(şáÛâ8¶¦˜î.
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(Şöéûÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(şáÛâ
+I
+java:S1121".Extract the assignment out of this expression.(Şöéûÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÏä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ç ªøÿÿÿÿ
+t
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Åªßøÿÿÿÿ
 P
-java:S1121".Extract the assignment out of this expression.(Şöéûÿÿÿÿ8Š¥•˜î.
-H
-java:S1481"&Remove this unused "e" local variable.(®Ê¥®øÿÿÿÿ8Ï½“˜î.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÏä8Í“Œ˜î.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ç ªøÿÿÿÿ8£ã˜˜î.
-W
-java:S1854"5Remove this useless assignment to local variable "e".(®Ê¥®øÿÿÿÿ8Ï½“˜î.
-‚
-java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(Şöéûÿÿÿÿ8Š¥•˜î.
+java:S1854"5Remove this useless assignment to local variable "e".(®Ê¥®øÿÿÿÿ
+A
+java:S1481"&Remove this unused "e" local variable.(®Ê¥®øÿÿÿÿ

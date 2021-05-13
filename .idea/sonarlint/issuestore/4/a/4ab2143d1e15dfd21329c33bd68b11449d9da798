@@ -1,12 +1,12 @@
 
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ıÿÒäüÿÿÿÿ8ÿ€ì˜î.
-a
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÖÌÑW8ÊÄâ›ø.
-W
-java:S2209	"5Change this instance-reference to a static reference.(ıÿÒäüÿÿÿÿ8‡íí˜î.
-L
-java:S1481"*Remove this unused "total" local variable.(óìùøÿÿÿÿ8ÿ€ì˜î.
-Z
-java:S1117"8Rename "total" which hides the field declared at line 5.(óìùøÿÿÿÿ8ÿ€ì˜î.
 [
 java:S1854"9Remove this useless assignment to local variable "total".(óìùøÿÿÿÿ8ÿ€ì˜î.
+Z
+java:S1117"8Rename "total" which hides the field declared at line 5.(óìùøÿÿÿÿ8ÿ€ì˜î.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ıÿÒäüÿÿÿÿ8ÿ€ì˜î.
+W
+java:S2209	"5Change this instance-reference to a static reference.(ıÿÒäüÿÿÿÿ8‡íí˜î.
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÖÌÑW8ÊÄâ›ø.
+L
+java:S1481"*Remove this unused "total" local variable.(óìùøÿÿÿÿ8ÿ€ì˜î.

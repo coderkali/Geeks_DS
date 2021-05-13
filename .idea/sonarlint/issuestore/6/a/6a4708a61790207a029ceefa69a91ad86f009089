@@ -2,12 +2,12 @@
 z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¼»ø’ùÿÿÿÿ8¾ÒÉ¨ğ.
 V
 java:S4973"9Use the "equals" method if value comparison was intended.(ıÊÓÎ8¾ÒÉ¨ğ.
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8¾ÒÉ¨ğ.
+Y
+java:S1854"7Remove this useless assignment to local variable "key".(úãÿãøÿÿÿÿ8ğ³Å¨ğ.
 V
 java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ëûº¼ıÿÿÿÿ8¾ÒÉ¨ğ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ÀØàÿÿÿÿÿ8´šË¨ğ.
-Y
-java:S1854"7Remove this useless assignment to local variable "key".(úãÿãøÿÿÿÿ8ğ³Å¨ğ.
 H
 java:S1481"&Remove this unused "j" local variable.(¼»ø’ùÿÿÿÿ8¾ÒÉ¨ğ.
-8
-java:S3626"Remove this redundant jump.(ÉŠ©ƒ8¾ÒÉ¨ğ.

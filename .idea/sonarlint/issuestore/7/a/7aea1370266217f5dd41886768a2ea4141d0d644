@@ -1,0 +1,16 @@
+
+R
+java:S3518
+"7Make sure "y" can't be zero before doing this division.(Ã²Êûÿÿÿÿ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+:
+java:S1659"Declare "y" on a separate line.(Ö‡¼ûşÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ã²Êûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Éê—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”Êôõùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚâÄÖşÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’±ùü8Í•ˆ“/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³–áÆıÿÿÿÿ8Í•ˆ“/

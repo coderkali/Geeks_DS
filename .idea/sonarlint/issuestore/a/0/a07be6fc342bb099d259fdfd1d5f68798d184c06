@@ -1,23 +1,23 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªž¦·úÿÿÿÿ
-S	java:S1061"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¦ç´ô
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ë×Áÿþÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¶ç¹
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¿žÒüýÿÿÿÿ
-N	java:S106+"9Replace this use of System.out or System.err by a logger.(¢Ñ¬É
 i
 java:S20954"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(€ð¥Ä8²ÌÝÀù.
-M
-java:S14814"0Remove this unused "inputstream" local variable.(€ð¥Ä8²ÌÝÀù.
-\
-java:S18544"?Remove this useless assignment to local variable "inputstream".(€ð¥Ä8²ÌÝÀù.
 I
 java:S1128",Remove this unused import 'java.nio.Buffer'.(î¦Ïî8²ÌÝÀù.
 t
 java:S1171
 "YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦ç´ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¶ç¹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªž¦·úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ë×Áÿþÿÿÿÿ
 t
 java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿žÒüýÿÿÿÿ
 N	java:S106#"9Replace this use of System.out or System.err by a logger.(øù÷¸
+\
+java:S18544"?Remove this useless assignment to local variable "inputstream".(€ð¥Ä8²ÌÝÀù.
 S	java:S106)"9Replace this use of System.out or System.err by a logger.(×á£žûÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¢Ñ¬É
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+M
+java:S14814"0Remove this unused "inputstream" local variable.(€ð¥Ä8²ÌÝÀù.

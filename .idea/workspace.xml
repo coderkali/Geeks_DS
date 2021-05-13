@@ -4,51 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad07dbb9-8f70-45fc-a733-3305e655ffff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/BeautifullString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/FlagHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/PriceCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/SprintTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/TestFirstApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/TrueFalseTest.java" afterDir="false" />
+    <list default="true" id="ad07dbb9-8f70-45fc-a733-3305e655ffff" name="Default Changelist" comment="some more code test added">
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/A123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/AlgorithmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/Asteroid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/CamelCaseSeperaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/CompileErrorFindOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/DivisibilityBySTring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/Forecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/ListTest123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/Main1123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/ParentChildTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/ParentChildTest2121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/SetTest123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/hackerrank/TestApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00aa0047c2f206d3dc245136d50f6cf341f76b15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00aa0047c2f206d3dc245136d50f6cf341f76b15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01ed81730533847a2ac37edc89fb90cd179d25e4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01ed81730533847a2ac37edc89fb90cd179d25e4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0606a7ba74b644c8dcdbd4e0b26fbad20897dd1a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0606a7ba74b644c8dcdbd4e0b26fbad20897dd1a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bb0628415156862368a6612ea875a279535ee4a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bb0628415156862368a6612ea875a279535ee4a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cbe9362fa29215b76a3ef8e5b2b366bfe7541b1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cbe9362fa29215b76a3ef8e5b2b366bfe7541b1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21e43244c159f22a82612fc1ef5cb18a6c5325b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21e43244c159f22a82612fc1ef5cb18a6c5325b9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2703a8dc3484e9002444f398e4f06e4b9baa4990" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2703a8dc3484e9002444f398e4f06e4b9baa4990" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e16d2943def4955a5237828cd9135b9aa78389d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e16d2943def4955a5237828cd9135b9aa78389d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ee2bc895dbb871afb62fd1021fb90ecaa566944" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ee2bc895dbb871afb62fd1021fb90ecaa566944" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ee88f3b6c0ffc927a4526459ffbe9d0d1db87de" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ee88f3b6c0ffc927a4526459ffbe9d0d1db87de" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f1e276a3f823788c1fa28d1569bc5c733c91cf4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f1e276a3f823788c1fa28d1569bc5c733c91cf4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b337977029685cab02c968ede3c6caa04a7165e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b337977029685cab02c968ede3c6caa04a7165e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39cc9875ba4dd283bd589b4abca44ce4a230f424" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39cc9875ba4dd283bd589b4abca44ce4a230f424" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47e5384d6126098a0a3c01d133ed637b50d1fc3d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47e5384d6126098a0a3c01d133ed637b50d1fc3d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ab2143d1e15dfd21329c33bd68b11449d9da798" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ab2143d1e15dfd21329c33bd68b11449d9da798" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/5041439eb1795dc6c122b2a15f61f6591be1896b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/5041439eb1795dc6c122b2a15f61f6591be1896b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5296f5c4eb2a07ab65116c1cce72e73acc586fd0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5296f5c4eb2a07ab65116c1cce72e73acc586fd0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/533815883664f9676be3d080d55cdbcc035c887f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/533815883664f9676be3d080d55cdbcc035c887f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/541f9bdfd54342a1eee550c8d18a4ff74f303cb3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/541f9bdfd54342a1eee550c8d18a4ff74f303cb3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5449e0e9daeb7d2ae64f6127966215df2a21123d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5449e0e9daeb7d2ae64f6127966215df2a21123d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54e927d36cac0c5913621fc67a5068bfe95be8a1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54e927d36cac0c5913621fc67a5068bfe95be8a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/640a5c06e8319e7ed08df23681b07ae58da12ed8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/640a5c06e8319e7ed08df23681b07ae58da12ed8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81009309a8fd8e3cc639fc0febdd6c7b24901986" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81009309a8fd8e3cc639fc0febdd6c7b24901986" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/619fd610d20ae277d99351906cc6b59aab8400fc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/619fd610d20ae277d99351906cc6b59aab8400fc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a4708a61790207a029ceefa69a91ad86f009089" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a4708a61790207a029ceefa69a91ad86f009089" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c175b6673e8f3ec38020295aa785e171ebe97c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c175b6673e8f3ec38020295aa785e171ebe97c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6eed28c53c49730aa54670036aa54d2a79629b0a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6eed28c53c49730aa54670036aa54d2a79629b0a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/883021cedde1594f8cc829f3ad3605eb7d45a6da" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/883021cedde1594f8cc829f3ad3605eb7d45a6da" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a07be6fc342bb099d259fdfd1d5f68798d184c06" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a07be6fc342bb099d259fdfd1d5f68798d184c06" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a08123e18e1081cebffd1c6f70a6cb20beaf60c2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a08123e18e1081cebffd1c6f70a6cb20beaf60c2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1f17c47d8f903acf76e2b0dbb5ba8dc36eeec6f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1f17c47d8f903acf76e2b0dbb5ba8dc36eeec6f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a27da355625026005c2e60e57050f40d091884f2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a27da355625026005c2e60e57050f40d091884f2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b05d3d6d6f44eaaf7551bc0666a54d0e36f33b08" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b05d3d6d6f44eaaf7551bc0666a54d0e36f33b08" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b20ca272b95f50af0884f8baff43fb4651ea272d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b20ca272b95f50af0884f8baff43fb4651ea272d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8ed1a18bd9aa73d4038200a30e3866037066c6f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8ed1a18bd9aa73d4038200a30e3866037066c6f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4ca1917145db8ceb8de1bf224d581abe2e93386" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4ca1917145db8ceb8de1bf224d581abe2e93386" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b73bfbb8009942f3bb04f33d4bf53c3d9b1905ff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b73bfbb8009942f3bb04f33d4bf53c3d9b1905ff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c050f612b4f04ad0196c3d1e5bc293099668cb6e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c050f612b4f04ad0196c3d1e5bc293099668cb6e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c78eb7fa14ae5887256d5d29466c9452682b78e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c78eb7fa14ae5887256d5d29466c9452682b78e2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8244d04053e5d366af806e33c88fd53af0450d3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8244d04053e5d366af806e33c88fd53af0450d3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd5ac139bb703e9394d5f29ecec643772221de89" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd5ac139bb703e9394d5f29ecec643772221de89" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d69f5c5308510fe674721918ddb02d8a96154cd1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d69f5c5308510fe674721918ddb02d8a96154cd1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db5d81c0be59315efc46c5b38caf03c7cb83ff9c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db5d81c0be59315efc46c5b38caf03c7cb83ff9c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc6b1a43856faff3e1e32b1432008e849ec26b9a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc6b1a43856faff3e1e32b1432008e849ec26b9a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e258e90d8176dc860a1f24086d781dd95830a6e6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e258e90d8176dc860a1f24086d781dd95830a6e6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e47a8e9bb1309241796caa31cffc13b77f67124d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e47a8e9bb1309241796caa31cffc13b77f67124d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4ecf6e51383368da20ff166f8a7ac0fa003172d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4ecf6e51383368da20ff166f8a7ac0fa003172d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5c9257a1ff52ef7991fbbcc6fa41cc88efb185e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5c9257a1ff52ef7991fbbcc6fa41cc88efb185e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec7e455d7c797d4e9b21b864910318b96e3a569a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec7e455d7c797d4e9b21b864910318b96e3a569a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed6b36c1657c7f9e4229d5350a55c4a266c02543" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed6b36c1657c7f9e4229d5350a55c4a266c02543" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed8197f09de6c99965635372a11076b9d43be461" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed8197f09de6c99965635372a11076b9d43be461" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3dfd3a5642d3829ee01fa9ee759d03eedc683c5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3dfd3a5642d3829ee01fa9ee759d03eedc683c5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc37e932da2fda930fa6d6bd6ede0191e713ffc6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc37e932da2fda930fa6d6bd6ede0191e713ffc6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff736710f68ea2e69021ce09596d449b7c78e0b1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff736710f68ea2e69021ce09596d449b7c78e0b1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff7bc8df2f0788813fcd0756831ae94171cf1895" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff7bc8df2f0788813fcd0756831ae94171cf1895" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/WholeMinuteDilema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/WholeMinuteDilema.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/monthlycost/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/monthlycost/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/ForLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/ForLoopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/WholeMinuteDilema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/WholeMinuteDilema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/IkmTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8programming/IkmTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/monthlycost/OnlineAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/monthlycost/OnlineAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/java8/Predicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/java8/Predicator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/java8/Predicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/java8/Predicator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,14 +163,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BeautifullString">
-    <configuration name="BeautifullString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.BeautifullString" />
+  <component name="RunManager" selected="Application.Main1123">
+    <configuration name="C2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8.C2" />
+      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IKMTest_Arithimetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.IKMTest_Arithimetic" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
@@ -158,8 +196,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitsManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.DigitsManipulation" />
+    <configuration name="IkmTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8.IkmTest" />
+      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8programming.LongTest" />
+      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.java8programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1123" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.Main1123" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
@@ -171,38 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.MainTest123" />
+    <configuration name="Predicator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8.Predicator" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geeks.ds.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PriceCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.PriceCheck" />
-      <module name="Geeks_DS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geeks.ds.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SprintTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.SprintTraining" />
-      <module name="Geeks_DS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geeks.ds.*" />
+          <option name="PATTERN" value="com.geeks.ds.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,19 +249,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SprintTraining" />
-      <item itemvalue="Application.PriceCheck" />
-      <item itemvalue="Application.MainTest123" />
-      <item itemvalue="Application.DigitsManipulation" />
-      <item itemvalue="Application.BeautifullString" />
+      <item itemvalue="Application.Main1123" />
+      <item itemvalue="Application.Predicator" />
+      <item itemvalue="Application.IkmTest" />
+      <item itemvalue="Application.C2" />
+      <item itemvalue="Application.LongTest" />
+      <item itemvalue="Application.IKMTest_Arithimetic" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeautifullString" />
-        <item itemvalue="Application.DigitsManipulation" />
-        <item itemvalue="Application.MainTest123" />
-        <item itemvalue="Application.PriceCheck" />
-        <item itemvalue="Application.SprintTraining" />
+        <item itemvalue="Application.Predicator" />
+        <item itemvalue="Application.IKMTest_Arithimetic" />
+        <item itemvalue="Application.LongTest" />
+        <item itemvalue="Application.C2" />
+        <item itemvalue="Application.IkmTest" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +275,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608091886725</updated>
     </task>
+    <task id="LOCAL-00001" summary="some more code test added">
+      <created>1620493922668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620493922668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +296,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some more code test added" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more code test added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -287,11 +338,6 @@
           <url>file://$PROJECT_DIR$/src/com/geeks/ds/ComputingPower.java</url>
           <line>35</line>
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/geeks/ds/java8practise/GCExample.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/geeks/ds/hackerrank/CommonSUbSTring.java</url>
@@ -372,6 +418,41 @@
           <url>file://$PROJECT_DIR$/src/com/geeks/ds/BeautifullString.java</url>
           <line>49</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/MathOperation.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/MathOperation.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/java8practise/GCExample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/Test.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/AlgorithmTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/Main1123.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geeks/ds/Main1123.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/geeks/ds/LocalTimetest.java</url>

@@ -1,19 +1,19 @@
 
-Z	java:S106N"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8ò×Ø™/
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢›ã!8ò×Ø™/
 m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â›¹’8ò×Ø™/
 m
 java:S3008"PRename this field "CHARS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò—ä¸8ò×Ø™/
-U
-java:S1197"8Move the array designator from the variable to the type.(Ö­²Ó8ò×Ø™/
-Z	java:S106P"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8ò×Ø™/
-l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢›ã!8ò×Ø™/
-E
-java:S1659")Declare "count_freq1" on a separate line.(¢›ã!8ò×Ø™/
-F
-java:S1659"")Declare "count_freq2" on a separate line.(â›¹’8ò×Ø™/
-@
-java:S1659""#Declare "freq2" on a separate line.(â›¹’8ò×Ø™/
 o
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(³©ö…8ò×Ø™/
 ?
 java:S1659"#Declare "freq1" on a separate line.(¢›ã!8ò×Ø™/
+E
+java:S1659")Declare "count_freq1" on a separate line.(¢›ã!8ò×Ø™/
+@
+java:S1659""#Declare "freq2" on a separate line.(â›¹’8ò×Ø™/
+F
+java:S1659"")Declare "count_freq2" on a separate line.(â›¹’8ò×Ø™/
+U
+java:S1197"8Move the array designator from the variable to the type.(Ö­²Ó8ò×Ø™/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8ò×Ø™/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8ò×Ø™/

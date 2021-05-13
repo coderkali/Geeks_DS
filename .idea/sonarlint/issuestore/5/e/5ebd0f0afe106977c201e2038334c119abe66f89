@@ -1,0 +1,11 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Øâ–
+g
+java:S1104"QMake index a static final constant or non-public and provide accessors if needed.(”û¿¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(Ç¨ä¾øÿÿÿÿ8„½ÊÕ”/
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÃÍªàşÿÿÿÿ8ªÏÕ”/
+X	java:S125"<This block of commented-out lines of code should be removed.(»¡­8öóËÕ”/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8ªÏÕ”/
+V	java:S125"<This block of commented-out lines of code should be removed.(ÓÚÀÔüÿÿÿÿ

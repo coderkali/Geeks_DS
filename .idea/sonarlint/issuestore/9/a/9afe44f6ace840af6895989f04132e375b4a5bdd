@@ -1,0 +1,18 @@
+
+Y
+java:S35182"7Make sure "m" can't be zero before doing this division.(‚´öŠşÿÿÿÿ8öÏØ€•/
+7
+java:S1643"Use a StringBuilder instead.(ş™ƒÍùÿÿÿÿ
+>
+java:S1643."Use a StringBuilder instead.(Ì ¯šøÿÿÿÿ8ùÏØ€•/
+>
+java:S16433"Use a StringBuilder instead.(›ÌÀÂÿÿÿÿÿ8ùÏØ€•/
+L
+java:S54117"*Use the primitive boolean expression here.(İÑ§íşÿÿÿÿ8ÆêÛ€•/
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(ëŠì½
+<
+java:S1659#"Declare "m" on a separate line.(‰’ì¥8ÿÏØ€•/
+=
+java:S1659*" Declare "t1" on a separate line.(şşÖ¿8ÿÏØ€•/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(¶‘Şó8ƒĞØ€•/

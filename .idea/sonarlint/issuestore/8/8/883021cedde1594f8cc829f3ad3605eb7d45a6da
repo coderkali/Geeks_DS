@@ -2,7 +2,7 @@
 L
 java:S3740"/Provide the parametrized type for this generic.(şáÛâ8‡“ôşî.
 v
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8µ÷÷şî.
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÏä8‡“ôşî.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ç ªøÿÿÿÿ8ùÜûşî.
 v
-java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÏä8‡“ôşî.
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8µ÷÷şî.

@@ -1,18 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Æüç©8ÚÎ˜¯ü.
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß¡ÕÕ8Ò­¯ü.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ½¸Íûÿÿÿÿ8©Š‰¯ü.
-J
-java:S1125
-"(Remove the literal "true" boolean value.(ˆÑÒ¥şÿÿÿÿ8½«ˆ¯ü.
-W
-java:S2123":Remove this increment or correct the code not to waste it.(ú”ÕŞ8«÷ƒ¯ü.
-R
-java:S1854"5Remove this useless assignment to local variable "e".(ÏâéÒ8Ì…¯ü.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(½±À‰8ó“¯ü.
-6
-java:S2178"Correct this "|" to "||".(ÏâéÒ8Ì…¯ü.
-E
-java:S1125"(Remove the literal "true" boolean value.(‹Œ÷¥8ã’¯ü.
-R
-java:S1854"5Remove this useless assignment to local variable "d".(ú”ÕŞ8«÷ƒ¯ü.
