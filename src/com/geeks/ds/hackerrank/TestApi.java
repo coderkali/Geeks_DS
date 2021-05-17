@@ -60,10 +60,6 @@ public class TestApi {
                     .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
                     .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
                             (oldValue, newValue) -> oldValue, LinkedHashMap::new));
-//            List<String> titles = map.entrySet().stream()
-//                    .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
-//                    .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
-//                            (oldValue, newValue) -> oldValue, LinkedHashMap::new)).keySet().stream().collect(Collectors.toCollection(LinkedList::new));
 
             List<String> titles1 = new LinkedList<>(map.entrySet().stream()
                     .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
