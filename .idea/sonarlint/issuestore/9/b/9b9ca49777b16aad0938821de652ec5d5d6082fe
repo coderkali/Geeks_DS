@@ -1,0 +1,19 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ñÏÅ
+>
+java:S1172	"(Remove this unused method parameter "s".(âÊîœ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¦ûÞ™
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™€°–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³¨†£
+A
+java:S1172""+Remove this unused method parameter "args".(ú‡Ä¨
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(÷Ã€ˆ
+L
+java:S1172&"*Remove this unused method parameter "str".(‰ªµäþÿÿÿÿ8­â«Ï™/
+N	java:S106("9Replace this use of System.out or System.err by a logger.(±Õ¥ð
+X	java:S125+"<This block of commented-out lines of code should be removed.(¾¶Ò£8¯â«Ï™/
+^
+java:S20943"BRemove this empty class, write its code or make it an "interface".(Ù¾K8Ê‰¼Ï™/

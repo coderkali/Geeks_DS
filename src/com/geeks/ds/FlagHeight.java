@@ -18,6 +18,6 @@ public class FlagHeight {
     }
 
     public static void main(String[] args) {
-        System.out.println(FlagHeight.jumps(8,3));
+        System.out.println(FlagHeight.jumps(3,1));
     }
 }

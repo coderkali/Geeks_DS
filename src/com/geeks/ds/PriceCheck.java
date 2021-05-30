@@ -29,10 +29,10 @@ public class PriceCheck {
     }
 
     public static void main(String[] args) {
-       List<String> products = Arrays.asList("Chocolate","Cheese","Biscuit");
-       List<Float> productPrice = Arrays.asList(13.05f,10.00f,12.23f);
-       List<String> soldProducts = Arrays.asList("Chocolate","Cheese","Biscuit");
-       List<Float> soldPrice = Arrays.asList(13.05f,11.00f,13.23f);
+       List<String> products = Arrays.asList("rice","sugar","wheat","cheese");
+       List<Float> productPrice = Arrays.asList(16.89f,56.92f,20.89f,345.99f);
+       List<String> soldProducts = Arrays.asList("rice","cheese");
+       List<Float> soldPrice = Arrays.asList(18.99f,400.89f);
         System.out.println(priceChecked(products,productPrice,soldProducts,soldPrice));
 
     }

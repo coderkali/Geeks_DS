@@ -44,7 +44,7 @@ class Account implements OnlineAccount, Comparable<Account>{
     }
 
     public String toString(){
-        return "Owner is "+ownerName+" and monthly cost is "+monthlyCost()+" USD";
+        return "Owner is "+ownerName+" and monthly cost is "+monthlyCost()+" USD.";
 
     }
 

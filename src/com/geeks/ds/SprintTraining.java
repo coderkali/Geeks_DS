@@ -1,6 +1,7 @@
 package com.geeks.ds;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class SprintTraining
@@ -47,9 +48,11 @@ public class SprintTraining
         }
 
 
+
+
         public static void main(String[] args) {
-            int[] arr = {1,5,10,3};
-            System.out.println(SprintTraining.GetMostVisited(arr.length,arr));
+            int[] arr = {2,4,1,3};
+            System.out.println(SprintTraining.GetMostVisited(5,arr));
         }
 
         //choclate  :: 15
