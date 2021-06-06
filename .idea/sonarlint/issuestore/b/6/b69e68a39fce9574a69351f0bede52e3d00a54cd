@@ -1,0 +1,11 @@
+
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øãş•ÿÿÿÿÿ8”şÑè/
+Q
+java:S1066 "/Merge this if statement with the enclosing one.(º ‚Æúÿÿÿÿ8º¢ßæ/
+=
+java:S3626"Remove this redundant jump.(Ëù€Äıÿÿÿÿ8Ä¢ßæ/
+X	java:S125&"<This block of commented-out lines of code should be removed.(éÑÜ8èˆßæ/
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ı˜¹Ÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ÅášÚúÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¦‹Ñ³ùÿÿÿÿ

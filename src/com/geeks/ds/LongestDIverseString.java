@@ -1,10 +1,5 @@
 package com.geeks.ds;
 
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
-
 public class LongestDIverseString {
 
     public static String longestDiverseStrings(int a, int b, int c) {
@@ -19,6 +14,11 @@ public class LongestDIverseString {
             index = newIndex;
             sb.append(chars[index]);
             counter[index]--;
+        }
+
+        switch (index){
+            default:
+
         }
 
         return sb.toString();

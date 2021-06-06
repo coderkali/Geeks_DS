@@ -1,12 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å¯Ëßÿÿÿÿÿ8íŞ©±î.
-X
-java:S1854#";Remove this useless assignment to local variable "manager".(¢‘êí8ú¡«±î.
-H
-java:S1481""&Remove this unused "l" local variable.(õøÈıûÿÿÿÿ8˜ó„/
-W
-java:S1854""5Remove this useless assignment to local variable "l".(õøÈıûÿÿÿÿ8˜ó„/
-I
-java:S1481#",Remove this unused "manager" local variable.(¢‘êí8ú¡«±î.
-{
-java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(õøÈıûÿÿÿÿ8˜ó„/
