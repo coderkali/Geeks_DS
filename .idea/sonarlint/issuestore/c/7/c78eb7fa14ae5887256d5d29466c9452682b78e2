@@ -1,0 +1,8 @@
+
+9
+java:S1116"Remove this empty statement.(óÛ”Š8˜˜±¯î.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿèÁƒúÿÿÿÿ8˜˜±¯î.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8µÆ¦…Š/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿèÁƒúÿÿÿÿ8†’çñö.
+W	java:S125!"<This block of commented-out lines of code should be removed.(¤×„b8³Ä¤…Š/

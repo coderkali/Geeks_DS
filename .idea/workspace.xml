@@ -5,45 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad07dbb9-8f70-45fc-a733-3305e655ffff" name="Default Changelist" comment="some more code test added">
-      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/DistanceBetweenTwoPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0606a7ba74b644c8dcdbd4e0b26fbad20897dd1a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b01c2765499421db3349e069c8eff6d706c2668" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2703a8dc3484e9002444f398e4f06e4b9baa4990" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e16d2943def4955a5237828cd9135b9aa78389d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ee2bc895dbb871afb62fd1021fb90ecaa566944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39cc9875ba4dd283bd589b4abca44ce4a230f424" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b337977029685cab02c968ede3c6caa04a7165e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4099e30fd0d69cd590fe4492b27cbbfb02d8bbee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43b4ba37188c4c4ed208d52efc4a8a0ebee14a6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44b53844098f629495be7b89a36b9e02b8b6c6a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ab2143d1e15dfd21329c33bd68b11449d9da798" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5449e0e9daeb7d2ae64f6127966215df2a21123d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54e927d36cac0c5913621fc67a5068bfe95be8a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/640a5c06e8319e7ed08df23681b07ae58da12ed8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a4708a61790207a029ceefa69a91ad86f009089" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c175b6673e8f3ec38020295aa785e171ebe97c8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7bdb8ed4911ee2bc6365f3c7bc0fc9b4dd2d035c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7db448ba3aece84653c9bda7d95075578b90778d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7ee8d121d9f178281e5f2df1bf4899b831ce4b10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/947bd0adeeb22e222e0b0fbd8f1dd5ccec1e341d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb2eb92c6d9455f00d19264bb66fb179b2289bc2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb96ef123248ac263c93c7a3829e08d47ae67003" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c050f612b4f04ad0196c3d1e5bc293099668cb6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c78eb7fa14ae5887256d5d29466c9452682b78e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c869d4dafe5892e6372db59a5283168f7563e5e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d69f5c5308510fe674721918ddb02d8a96154cd1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db5d81c0be59315efc46c5b38caf03c7cb83ff9c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc6b1a43856faff3e1e32b1432008e849ec26b9a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e258e90d8176dc860a1f24086d781dd95830a6e6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5c9257a1ff52ef7991fbbcc6fa41cc88efb185e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed6b36c1657c7f9e4229d5350a55c4a266c02543" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f58712ddd1e3a647ec9bf2430d5099d9a3abd8a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb0c88373e04288825dd20913ea580b4c27e1eee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff7bc8df2f0788813fcd0756831ae94171cf1895" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/AddMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/DoWHileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geeks/ds/hackerrank/DoubleOnMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8244d04053e5d366af806e33c88fd53af0450d3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8244d04053e5d366af806e33c88fd53af0450d3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/com/geeks/ds/LongestDIverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/com/geeks/ds/LongestDIverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geeks/ds/LongestDIverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geeks/ds/LongestDIverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +107,20 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.HackerRankTest">
+  <component name="RunManager" selected="Application.AddMethodTest">
+    <configuration name="AddMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.AddMethodTest" />
+      <module name="Geeks_DS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geeks.ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DistanceBetweenTwoPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.geeks.ds.DistanceBetweenTwoPoints" />
       <module name="Geeks_DS" />
@@ -154,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnhancedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8.EnhancedFor" />
+    <configuration name="DoubleOnMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.hackerrank.DoubleOnMatch" />
       <module name="Geeks_DS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geeks.ds.java8.*" />
+          <option name="PATTERN" value="com.geeks.ds.hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,34 +186,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Predicator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geeks.ds.java8.Predicator1" />
-      <module name="Geeks_DS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geeks.ds.java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main1123" />
-      <item itemvalue="Application.EnhancedFor" />
-      <item itemvalue="Application.Predicator1" />
       <item itemvalue="Application.MaximumRatingSUm" />
       <item itemvalue="Application.DistanceBetweenTwoPoints" />
       <item itemvalue="Application.HackerRankTest" />
+      <item itemvalue="Application.DoubleOnMatch" />
+      <item itemvalue="Application.AddMethodTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddMethodTest" />
+        <item itemvalue="Application.DoubleOnMatch" />
         <item itemvalue="Application.HackerRankTest" />
         <item itemvalue="Application.DistanceBetweenTwoPoints" />
         <item itemvalue="Application.MaximumRatingSUm" />
-        <item itemvalue="Application.Predicator1" />
-        <item itemvalue="Application.EnhancedFor" />
       </list>
     </recent_temporary>
   </component>

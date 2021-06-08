@@ -129,8 +129,6 @@ I
 src/com/geeks/ds/GFG.java,1/5/156720c9df134cddd6e73058c5073954c7c2ce94
 R
 "src/com/geeks/ds/WHileLopTest.java,8/f/8f9e06f8f6af99d8727cfcaf49c60dda8ef04e8d
-L
-src/com/geeks/ds/ClassA.java,c/8/c8244d04053e5d366af806e33c88fd53af0450d3
 V
 &src/com/geeks/ds/InheriatanceTest.java,a/0/a08123e18e1081cebffd1c6f70a6cb20beaf60c2
 R
@@ -303,8 +301,6 @@ Y
 )src/com/geeks/ds/CompileErrorFindOut.java,5/2/52748144183728dd31b53b7ee7714f04aa4a8a45
 N
 src/com/geeks/ds/Main1123.java,c/5/c57458f72f48f7a8d6573437e4c834830714479d
-_
-/src/com/geeks/ds/monthlycost/OnlineAccount.java,5/2/5296f5c4eb2a07ab65116c1cce72e73acc586fd0
 `
 0src/com/geeks/ds/ProgrammingTest/LambdaDemo.java,1/8/18b97de4efda1927b7f9f619b9ef0f87c18f7af9
 _
@@ -419,3 +415,11 @@ P
  src/com/geeks/ds/CountPairs.java,9/b/9b1a1d9d150676468d9c5c3619cf984ad1c70418
 \
 ,src/com/geeks/ds/PlacementSpecification.java,f/9/f9a253be2d113f0d71ae76c2a5f5d962e1d33733
+Q
+!src/com/geeks/ds/ForLoopTest.java,e/5/e5c9257a1ff52ef7991fbbcc6fa41cc88efb185e
+d
+4src/com/geeks/ds/java8programming/SystemManager.java,b/b/bb96ef123248ac263c93c7a3829e08d47ae67003
+_
+/src/com/geeks/ds/java8programming/IkmTest3.java,c/7/c78eb7fa14ae5887256d5d29466c9452682b78e2
+W
+'src/com/geeks/ds/java8/EnhancedFor.java,f/5/f58712ddd1e3a647ec9bf2430d5099d9a3abd8a7
